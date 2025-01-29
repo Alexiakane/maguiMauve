@@ -1,0 +1,19 @@
+#head {
+    height: 25vh;
+    background-color: rgb(189, 90, 250);
+    align-content: center;
+    text-align: center;
+}
+#nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+.link{
+    color: rgb(234, 199, 255);
+    font-size: 5vh;
+    text-decoration: none;
+}
+.link:hover {
+    color: rgb(248, 255, 43);
+    text-decoration: underline;
+}
