@@ -1,19 +1,106 @@
-#head {
-    height: 25vh;
-    background-color: rgb(189, 90, 250);
-    align-content: center;
-    text-align: center;
-}
-#nav{
+#accueil {
     display: flex;
-    justify-content: space-evenly;
+    gap: 3vh;
+    position: absolute;
 }
-.link{
-    color: rgb(234, 199, 255);
+#homeTitle {
+    font-size: 6vh;
+    height: 6vh;
+    width: 40vh;
+    position: relative;
+    left: 35%;
+    top: 2vh;
+}
+.card {
+    height: 37vh;
+    width: 30vh;
+    background-color: #FCA8EA;
+    position: relative;
+    border: solid black 5px;
+    border-radius: 15%;
+}
+#curry {
+    top: 15vh;
+}
+#gyoza {
+    top: 15vh;
+}
+#chocolatAtartiner {
+    top: 15vh;
+}
+#brioche {
+    top: 55vh;
+    right: 89vh;
+}
+#layerCake {
+    top: 55vh;
+    right: 89vh;
+}
+#tarteCitron {
+    top: 55vh;
+    right: 89vh;
+}
+#minuteur {
+    text-align: center;
+    position: relative;
+    top: 1vh;
+    left: 33vh;
+}
+
+#waiting {
+    font-size: 6vh;
+}
+
+#haveAbreak {
+    font-size: 4vh;
+}
+
+#start_timer {
+    height: 5vh;
+    width: 10vh;
+    font-size: 4vh;
+    border-radius: 15%;
+    background-color: rgb(253, 195, 253);
+    font-weight: bold;
+}
+
+#snake {
+    position: relative;
+    top: 2vh;
+    left: 33vh;
+}
+
+#pForm {
     font-size: 5vh;
-    text-decoration: none;
+    position: relative;
+    top: 3vh;
+    left: 5vh;
 }
-.link:hover {
-    color: rgb(248, 255, 43);
-    text-decoration: underline;
+
+#form {
+    position: absolute;
+}
+
+#formulaire {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 5vh;
+    left: 10vh;
+    gap: 1vh;
+}
+
+.input {
+    height: 5vh;
+    font-size: x-large;
+    width: 50vh;
+    background-color: rgb(253, 195, 253);
+}
+
+#message {
+    height: 10vh;
+}
+
+.main {
+    position: absolute;
 }

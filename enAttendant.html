@@ -1,19 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Magui Mauve, En attendant...</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="header.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Rouge+Script&display=swap"
+        rel="stylesheet">
 </head>
-<body>
-    <div w3-include-html="header.html"></div>
-    <main>
-<div>
 
-</div>
+<body>
+    <div class="head" w3-include-html="header.html"></div>
+    <main class="main">
+        <div id="minuteur">
+            <p id="waiting"> Vous ne savez pas quoi faire entre deux cuisson ? ou besoin de faire une pause ?</p>
+            <p id="haveAbreak">Prenez 10 minutes !</p>
+
+            <button type="button" id="start_timer">Start</button>
+            <h2 id="count_down_div"></h2>
+        </div>
+        <div id="snake"></div>
     </main>
     <script src="script.js"></script>
     <script> includeHTML();</script>
+    <script src="snake.js"></script>
 </body>
+
 </html>
