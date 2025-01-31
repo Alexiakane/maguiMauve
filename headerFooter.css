@@ -8,18 +8,28 @@
 }
 
 :root {
-    --colors-pink: #720d59;
+    --colors-pink: #ff03c0;
     --colors-violet: #f9dcfd;
     --colors-yellow: #fff4b4;
     --colors-purple: #421258;
+    --colors-black: #000000;
+    --colors-white: #ffffff;
+    --colors-lightPink: #ff72d5;
+    --colors-blackPink:#7c1d60; 
     --colors-primary: var(--colors-violet);
     --colors-secondary: var(--colors-pink);
+    --colors-third: var(--colors-white);
+    --colors-fourth: var(--colors-black);
+    --colors-fifth: var(--colors-lightPink);
     --border-radius-full: 3vh;
 }
 
 [data-theme-preference="dark"] {
     --colors-primary: var(--colors-purple);
     --colors-secondary: var(--colors-yellow);
+    --colors-third: var(--colors-black);
+    --colors-fourth: var(--colors-white);
+    --colors-fifth: var(--colors-blackPink);
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -136,4 +146,23 @@ html {
     height: 25vh;
     width: 100%;
     background-color: #F29F99;
+}
+
+.footer {
+    background-color: #F29F99;
+    height: 15vh;
+    font-size: 5vh;
+    display: flex;
+}
+#toe {
+    position: relative;
+    top: 10vh;
+
+}
+#logoFooter {
+    height: 15vh;
+    filter: opacity(50%);
+}
+#karadoc {
+    align-content: center;
 }

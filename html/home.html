@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Magui Mauve, Home</title>
     <link rel="stylesheet" href="/style.css">
-    <link rel="stylesheet" href="/header.css">
+    <link rel="stylesheet" href="/headerFooter.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Rouge+Script&display=swap"
@@ -16,16 +16,43 @@
 <body>
     <header class="head" w3-include-html="header.html"></header>
     <main>
-        <p id="homeTitle"> Dernière recettes : </p>
-        <div id="accueil">
-            <div class="card" id="curry"></div>
-            <div class="card" id="gyoza"></div>
-            <div class="card" id="chocolatAtartiner"></div>
-            <div class="card" id="brioche"></div>
-            <div class="card" id="layerCake"></div>
-            <div class="card" id="tarteCitron"></div>
+        <div id="heroBanner">
+            <p>Quel sera votre prochaine création ?</p>
+        </div>
+        <div class="content">
+            <div class="side">
+                <div class="left">
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus molestias cupiditate officia quasi architecto, iure corporis. Eligendi atque molestias saepe, nihil officiis repellat similique corporis ea ducimus, magnam consequuntur optio!</p>
+                </div>
+                <div class="left">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum vero harum consequatur sapiente, doloribus voluptatum doloremque minus illo! Doloremque quos eius eligendi fugiat repellendus unde inventore expedita cupiditate accusantium autem.</p>
+                </div>
+            </div>
+            <div>
+                <p id="homeTitle"> Dernière recettes : </p>
+                <div id="accueil">
+                    <div class="card" id="curry"></div>
+                    <div class="card" id="gyoza"></div>
+                    <div class="card" id="chocolatAtartiner"></div>
+                    <div class="card" id="brioche"></div>
+                    <div class="card" id="layerCake"></div>
+                    <div class="card" id="tarteCitron"></div>
+                </div>
+            </div>
+            <div class="side">
+                <div class="right">
+                    <p>Dolorum molestiae facilis atque saepe neque libero mollitia, modi inventore praesentium ipsam soluta id quaerat error at ipsa aperiam iusto reiciendis. Minima.</p>
+                </div>
+                <div class="right">
+                    <p>Iusto ipsam esse eius voluptates numquam est voluptatum optio modi non! Odio, expedita qui reprehenderit cupiditate nihil inventore consequatur hic alias nulla!</p>
+                </div>
+                <div class="right">
+                    <p>Neque suscipit ad eius atque, modi repudiandae possimus itaque consectetur delectus provident, fuga deleniti vitae obcaecati fugiat quasi cupiditate ut esse animi.</p>
+                </div>
+            </div>
         </div>
     </main>
+    <footer w3-include-html="footer.html"></footer>
     <script src="/script.js"></script>
     <script> includeHTML();</script>
 </body>

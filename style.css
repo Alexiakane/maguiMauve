@@ -1,12 +1,13 @@
-#accueil {
-    width:  50vw;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 3vh;
-    position: relative;
-    top: 10vh;
-    left: 50vh;
+#heroBanner {
+    background-image: url(images/patisserie.png);
+    height: 45vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 16vh;
+    text-align: center;
+    align-content: center;
 }
+
 #homeTitle {
     font-size: 8vh;
     height: 6vh;
@@ -14,29 +15,122 @@
     position: relative;
     left: 35%;
     top: 2vh;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-decoration-color: #FCA8EA ;
 }
+
+.side {
+    background-color: var(--colors-fifth);
+    width: 20vw;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+    text-align: center;
+    gap: 2%;
+    
+}
+.left {
+    border: solid var(--colors-fourth) 3px;
+    border-radius: 15%;
+    height: 45%;
+    width: 70%;
+    background-color: var(--colors-third);
+    position: relative;
+    top: 3vh;
+    font-size: 3vh;
+    align-content: center;
+}
+.right {
+    background-color: var(--colors-third);
+    border: solid var(--colors-fourth) 3px;
+    border-radius: 15%;
+    height: 30%;
+    width: 70%;
+    position: relative;
+    top: 2vh;
+    font-size: 3vh;
+    align-content: center;
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+#accueil {
+    width: 50vw;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3vh;
+    position: relative;
+    top: 10vh;
+}
+
 .card {
-    height: 37vh;
+    height: 20vh;
     width: 30vh;
     background-color: #FCA8EA;
     position: relative;
-    border: solid black 5px;
+    border: solid rgb(194, 126, 233) 5px;
     border-radius: 15%;
+
 }
+
+.card:hover {
+    border: solid yellow 5px;
+    transform: scale(1.15);
+    /*transform: scale(1) translate(30px);*/
+}
+
 #curry {
+    background-image: url(images/curry.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 #gyoza {
+    background-image: url(images/gyoza.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 #chocolatAtartiner {
+    background-image: url(images/pate-a-tartiner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 #brioche {
+    background-image: url(images/brioche.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 #layerCake {
+    background-image: url(images/layer-cake.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 #tarteCitron {
+    background-image: url(images/tarteCitron.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-#finger {
+
+.main {
     display: flex;
+}
+.recettes {
+    font-size: 6vh;
+    height: 55vh;
+    position: relative;
+    top: 10vh;
+}
+.link {
+    text-decoration: none;
 }
 #minuteur {
     text-align: center;
@@ -45,12 +139,15 @@
     left: 25vh;
     width: 50vh;
 }
+
 #waiting {
     font-size: 6vh;
 }
+
 #haveAbreak {
     font-size: 4vh;
 }
+
 #start_timer {
     height: 5vh;
     width: 10vh;
@@ -59,31 +156,44 @@
     background-color: rgb(253, 195, 253);
     font-weight: bold;
 }
+
 #snake {
     position: relative;
     top: 1vh;
-    left: 50vh;
+    left: 40vh;
 }
+
 #pForm {
     font-size: 5vh;
     position: relative;
     top: 3vh;
     margin-left: 5vh;
+    width: 50vh;
 }
+
 #formulaire {
     display: flex;
     flex-direction: column;
     position: relative;
     top: 5vh;
-    margin-left:10vh ;
     gap: 1vh;
 }
+
 .input {
     height: 5vh;
     font-size: x-large;
     width: 50vh;
     background-color: rgb(253, 195, 253);
 }
+
 #message {
     height: 10vh;
+}
+.btn {
+    font-size: 3vh;
+}
+#randomPhoto {
+    position: relative;
+    left: 10vh;
+    top: 5vh;
 }

@@ -1,3 +1,4 @@
+//fonction header/footer
 function includeHTML() {
     let z, i, elmnt, file, xhttp;
     z = document.getElementsByTagName("*");
@@ -19,6 +20,7 @@ function includeHTML() {
             return;
         }
     }
+    //Bouton mode sombre
     // Encapsulation du code dans une fonction immédiatement invoquée
     (function () {
         // Déclaration des variables
@@ -65,6 +67,7 @@ function includeHTML() {
     })();
 }
 
+//formulaire contact
 const formulaire = document.getElementById('formulaire');
 
 formulaire.addEventListener("submit", (event) => {
@@ -89,4 +92,21 @@ formulaire.addEventListener("submit", (event) => {
     })
         .then((response) => response.json())
         .then((json) => console.log(json));
+})
+
+const photoR = document.getElementById('randomPhoto');
+
+fetch('https://foodish-api.com/api/')
+.then((response) => {
+    return response.json();
+})
+.then((random) => {
+    let images = random.image;
+    const photo = document.createElement('img');
+    photo.src = images;
+    photoR.append(photo);
+    photo.style.height = "45vh";
+    photo.style.width = "30vw";
+    photo.style.border = "solid gold";
+    photo.style.borderRadius = "15%"
 })
