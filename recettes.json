@@ -1,0 +1,869 @@
+{
+    "recipes": [
+        {
+            "name": "Pâte à tartiner",
+            "ingredients": [
+                {
+                    "name": "noisettes entières",
+                    "quantity": 270,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sucre en poudre",
+                    "quantity": 120,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sucre glace",
+                    "quantity": 150,
+                    "mesure": "g"
+                },
+                {
+                    "name": "chocolat au lait a 40% de cacao",
+                    "quantity": 150,
+                    "mesure": "g"
+                },
+                {
+                    "name": "poudre de lait",
+                    "quantity": 25,
+                    "mesure": "g"
+                },
+                {
+                    "name": "cacao amer en poudre",
+                    "quantity": 10,
+                    "mesure": "g"
+                },
+                {
+                    "name": "huile de pépins de raisin (ou de tournesol)",
+                    "quantity": 5,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sel fin",
+                    "quantity": 3,
+                    "mesure": "g"
+                }
+            ],
+            "preparation": [
+                {
+                    "name": "Pâte à tartiner",
+                    "description": "Commencez par faire torréfier les noisettes. Pour cela il faut les mettre sur une plaque en métal, et les laisser 15mn dans un four préchauffé à 180°. Ensuite, afin d'ôter leur peau, il suffit de bien les faire rouler à l'intérieur d'un tamis, ou, à défaut, d'un torchon propre. Puis, dans une petite casserole, faîtes un caramel à sec. Pour faire le caramel à sec, il faut ajouter en trois fois le sucre en poudre, sur feu assez vif (mais pas trop fort non plus !). On le verse en 3 fois, ON NE REMUE JAMAIS !!  Par contre, à la fin, on donne des mouvements de rotation à la casserole afin d'aider les derniers grammes à fondre, puis on retire tout de suite la casserole du feu, on ajoute la moitié du sel, et, à l'aide d'une maryse, on verse immédiatement ce caramel sur une exopat ou du papier sulfurisé, afin d'obtenir une couche assez fine. Il ne doit pas être trop foncé, sinon il sera amer. Cassez ensuite cette feuille de caramel en petits morceaux, puis mixez-là avec la moitié des noisettes torréfiées, jusqu'à l'obtention d'une pâte semi-liquide. Et voilà, vous venez de faire du pralin ! Retirez ce pralin de la cuve de votre robot, et ajoutez-y maintenant la moitié de noisettes restantes et le sucre glace. Mixez jusqu'à l'obtention d'une pâte assez compacte : c'est la pâte de noisettes. Faîtes fondre au micro-onde pendant 3mn à 400W le chocolat au lait, ajoutez-les à la pâte de noisette, ainsi que le reste du sel, et mixez à nouveau. Ajoutez enfin le pralin, la poudre de lait, l'huile et le cacao, puis mixez à nouveau. Vous verrez qu'au départ le mélange est assez compact, mais plus vous mixerez plus il deviendra liquide.",
+                    "ingredients": [
+                        {
+                            "name": "noisettes entières",
+                            "quantity": 270,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "sucre en poudre",
+                            "quantity": 120,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "sucre glace",
+                            "quantity": 150,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "chocolat au lait a 40% de cacao",
+                            "quantity": 150,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "poudre de lait",
+                            "quantity": 25,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "cacao amer en poudre",
+                            "quantity": 10,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "huile de pépins de raisin (ou de tournesol)",
+                            "quantity": 5,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "sel fin",
+                            "quantity": 3,
+                            "mesure": "g"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Brioche",
+            "ingredients": [
+                {
+                    "name": "farine type 45",
+                    "quantity": 250,
+                    "mesure": "g"
+                },
+                {
+                    "name": "levure de boulanger fraîche",
+                    "quantity": 7,
+                    "mesure": "g"
+                },
+                {
+                    "name": "oeufs",
+                    "quantity": 50,
+                    "mesure": "g"
+                },
+                {
+                    "name": "lait entier",
+                    "quantity": 40,
+                    "mesure": "g"
+                },
+                {
+                    "name": "crème épaisse entière",
+                    "quantity": 80,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sel fin",
+                    "quantity": 3,
+                    "mesure": "g"
+                },
+                {
+                    "name": "lait en poudre entier",
+                    "quantity": 6,
+                    "mesure": "g"
+                }
+            ],
+            "preparation": [
+                {
+                    "name" : "Brioche",
+                    "description": "Faites tiédir le lait, et diluez la levure dedans, ajoutez la farine, et tous les autres ingrédients. Pétrissez au robot à l'aide du crochet 1mn au 3ème cran, puis 10mn au premier cran (vitesse lente). La pâte obtenue est légèrement collante mais peut être facilement mise en boule (cornez bien les parois de la cuve). Filmez et mettez à pousser en étuve. Le temps de pousse est variable : il dépend de la fraîcheur de votre levure et, surtout, de la température. C'est difficile de donner un temps précis. Je laisse pousser la pâte dans mon four à 40° (fonction étuve), pendant deux heures. Elle doit se remplir totalement d'air et doubler de volume, c'est ça le plus important. Dégazez bien la pâte avec le poing pour chasser l'air, et étalez-la en un rectangle d'environ 55cm x 25cm. Inutile de fariner le plan de travail, ça ne collera pas si vous avez tout pesé rigoureusement. Vous pouvez étaler ce que vous voulez dessus : pâte à tartiner, confiture, crème pâtissière...vous pouvez même mettre une crème pâtissière et des pépites de chocolat ! Roulez délicatement dans le sens de LA LONGUEUR, coupez des tronçons de taille identique, d'environ 4cm de large : débrouillez-vous pour en avoir 13 ou 14 . Choisissez un excellent couteau bien aiguisé surtout ! Chemisez votre cercle avec du papier sulfurisé et déposez-le sur une exopat (la brioche sera plus moelleuse dessous si elle cuit au contact d'une exopat plutôt que sur quelque chose de métallique), déposez les morceaux de pâte de cette façon, en les espaçant. Couvrez avec une assiette creuse par exemple, et laissez à nouveau pousser en étuve durant environ une heure. La brioche doit bien lever : il ne doit plus du tout y avoir d'espace entre les tronçons de pâte. Préchauffez alors le four à 150° avec une grille sur le gradin qui est juste en-dessous de celui du milieu, et enfournez pour 35 à 40mn, EN METTANT L'EXOPAT DIRECTEMENT SUR LA GRILLE SURTOUT. Inutile de dorer. A la sortie du four, déposez la brioche sur une grille et laissez-la refroidir quelques instants avant de la saupoudrer de sucre glace à l'aide d'une petite passoire.",
+                    "ingredients": [
+                {
+                    "name": "farine type 45",
+                    "quantity": 250,
+                    "mesure": "g"
+                },
+                {
+                    "name": "levure de boulanger fraîche",
+                    "quantity": 7,
+                    "mesure": "g"
+                },
+                {
+                    "name": "oeufs",
+                    "quantity": 50,
+                    "mesure": "g"
+                },
+                {
+                    "name": "lait entier",
+                    "quantity": 40,
+                    "mesure": "g"
+                },
+                {
+                    "name": "crème épaisse entière",
+                    "quantity": 80,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sel fin",
+                    "quantity": 3,
+                    "mesure": "g"
+                },
+                {
+                    "name": "lait en poudre entier",
+                    "quantity": 6,
+                    "mesure": "g"
+                }
+            ]
+                }
+            ]
+        },
+        {
+            "name": "Layer cake au chocolat",
+            "ingredients": [
+                {
+                    "name": "crème fleurette (ou crème liquide entière)",
+                    "quantity": 800,
+                    "mesure": "g"
+                },
+                {
+                    "name": "farine type 55",
+                    "quantity": 240,
+                    "mesure": "g"
+                },
+                {
+                    "name": "cacao amer en poudre",
+                    "quantity": 70,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sucre en poudre",
+                    "quantity": 330,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sel fin",
+                    "quantity": 2,
+                    "mesure": "g"
+                },
+                {
+                    "name": "levure chimique",
+                    "quantity": 11,
+                    "mesure": "g"
+                },
+                {
+                    "name": "oeufs",
+                    "quantity": 200,
+                    "mesure": "g"
+                },
+                {
+                    "name": "eau minerale",
+                    "quantity": 100,
+                    "mesure": "g"
+                },
+                {
+                    "name": "chocolat noir",
+                    "quantity": 250,
+                    "mesure": "g"
+                }
+            ],
+            "preparation": [
+                {
+                    "name": "La ganache montée",
+                    "description": "Pour pouvoir être montée, la préparation doit rester une nuit au réfrigérateur.Pour une ganache montée, commencer par faire fondre le chocolat pour faciliter les choses pendant 5mn au micro-ondes à 300W. S'il n'est pas parfaitement fondu ce n'est pas grave, faites bouillir 1/3 de crème fleurette. Versez la crème bouillante sur le chocolat, mélangez bien avec une maryse (avec vigueur !)  : vous devez obtenir une ganache bien brillante et fluide. Ajoutez alors 2/3 de crème fleurette bien froide, mélangez bien, filmez et laissez au réfrigérateur une nuit (ou au moins 6h)",
+                    "ingredients" :[
+                        {
+                            "name": "chocolat noir",
+                            "quantity": 250,
+                            "mesure": "g"
+                        },
+                        {
+                            "name":"crème fleurette (ou crème liquide entière)",
+                            "quantity": 500,
+                            "mesure": "g"
+                        }
+                    ]
+                },
+                {
+                    "name": "Molly cake",
+                    "description": "Préchauffez le four à 150° chaleur tournante. Montez tout d'abord la crème fleurette, qui doit être très froide. Il faudra la monter tout doucement, et augmenter très progressivement la vitesse du robot. Je laisse à chaque fois 1mn sur vitesse lente, 1mn sur vitesse 2, 1mn sur vitesse 3 et quelques minutes sur vitesse 4 (je ne vais pas au-delà). Plus elle montera lentement plus elle sera réussie. Réservez pour l'instant la crème à température ambiante (si vous n'avez qu'un seul bol pour votre robot il faudra la transvaser et laver le bol pour la suite de la recette). Montez alors le sucre avec les oeufs entiers, ainsi que l'extrait de vanille. J'ai mis ici 3 gouttes d'extrait très concentré, mais si vous avez de l'extrait classique il faudra deux cuillères à café je pense. Laissez tourner le robot pendant 10mn sur vitesse max. Pendant ce temps tamisez la farine, le cacao et la levure chimique (un sachet entier). Ajoutez ensuite le sel fin, mélangez bien. Au bout de 10mn, le mélange avec les oeufs a bien blanchi et devient très mousseux, ajoutez alors les poudres. Et fouettez encore au robot, mais le moins longtemps possible : arrêtez-vous quand le mélange est homogène. Maintenant on travaille avec une maryse, ajoutez alors un peu de crème pour assouplir, et mélangez. Ajoutez ensuite tout le reste de crème fouettée, et incorporez délicatement, comme vous le feriez pour une mousse au chocolat. Graissez votre moule, même s'il est en silicone. J'utilise toujours une bombe à graisse, bien plus pratique et rapide que le beurre fondu. Enfournez pour 22mn si avez utilisé les moules Wilton ou 40mn avec un moule à manqué",
+                    "ingredients":[
+                        {
+                            "name": "crème fleurette (ou crème liquide entière)",
+                            "quantity": 300,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "farine type 55",
+                            "quantity": 240,
+                            "mesure": "g"
+                        },
+                        {
+                            "name":"cacao amer en poudre",
+                            "quantity": 60,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "sucre en poudre",
+                            "quantity": 300,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "sel fin",
+                            "quantity": 2,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "levure chimique",
+                            "quantity": 11,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "oeufs",
+                            "quantity": 200,
+                            "mesure": "g"
+                        }
+                    ]
+                },
+                {
+                    "name": "le sirop",
+                    "description": "Rien de plus facile : on verse l'eau minérale et le sucre dans une petite casserole. On fait bouillir simplement pour faire fondre le sucre, ensuite on ajoute le cacao et on mélange bien. Laissez refroidir.",
+                    "ingredients":[
+                        {
+                            "name": "eau minerale",
+                            "quantity": 100,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "sucre en poudre",
+                            "quantity": 30,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "cacao amer en poudre",
+                            "quantity": 10,
+                            "mesure": "g"
+                        }
+                    ]
+                },
+                {
+                    "name": "montage",
+                    "description": "Maintenant que la ganache est très froide, on va la monter au robot, il faut y aller tout doucement. Si vous avez utilisé un moule à manqué, vous avez donc deux biscuits, qu'il faudra fendre en deux dans l'épaisseur, avec un grand couteau ou une lyre à génoise. Ensuite c'est très simple : vous alternez les couches de biscuits (en les imbibant à chaque fois au pinceau avec le sirop) et les couches de ganache montée, que vous étalerez avec une grande spatule coudée. Terminez en recouvrant le gâteau avec la ganache. J'ai travaillé sur un plateau tournant avec une corne, c'est plus facile pour lisser.",
+                    "ingredients":[]
+                }
+            ]
+        },
+        {
+            "name": "Tarte citron merringué",
+            "ingredients": [
+                {
+                    "name": "oeufs",
+                    "quantity": 2,
+                    "mesure": ""
+                },
+                {
+                    "name": "sucre en poudre",
+                    "quantity": 100,
+                    "mesure": "g"
+                },
+                {
+                    "name": "jus de citron",
+                    "quantity": 100,
+                    "mesure": "g"
+                },
+                {
+                    "name": "zestes d'un citron non traité",
+                    "quantity": null,
+                    "mesure": ""
+                },
+                {
+                    "name": "beurre",
+                    "quantity": 160,
+                    "mesure": "g"
+                },
+                {
+                    "name": "feuille de gélatine",
+                    "quantity": 1,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sablés pur beurre",
+                    "quantity": 200,
+                    "mesure": "g"
+                },
+                {
+                    "name": "noix de coco râpée",
+                    "quantity": 40,
+                    "mesure": "g"
+                }
+            ],
+            "preparation": [
+                {
+                    "name": "lemon curd",
+                    "description": "Commencez par faire tremper la gélatine dans l'eau froide. Puis, zestez le citron, mélangez les zestes avec le sucre en poudre, malaxez bien pour obtenir un sucre parfumé. Dans une casserole, versez les oeufs battus et le jus de citron, la feuille de gélatine bien essorée. Ajoutez le sucre parfumé, et mélangez bien, portez le tout à 85°, en mélangeant sans arrêt, sur feu assez vif. Versez ensuite cette crème dans un récipient, et laissez refroidir à température ambiante. Le mélange doit redescendre à 35°. Lorsque la crème au citron est à 35°, versez-là dans un récipient creux, afin de pouvoir la mixer au mixeur plongeant. Votre beurre doit être très pommade à ce moment-là. Il faut que le beurre et la crème soit à la même température, sinon le lemon curd ne prendra pas, et il sera impossible de le rattraper, Mixez sans arrêt, an ajoutant le beurre petit à petit, comme pour une mayonnaise. Placez-le immédiatement dans une poche sans douille, et réservez au frais",
+                    "ingredients":[
+                        {
+                            "name": "oeufs",
+                            "quantity": 2,
+                            "mesure":""
+                        },
+                        {
+                            "name": "sucre en poudre",
+                            "quantity": 100,
+                            "mesure":"g"
+                        },
+                        {
+                            "name": "jus de citron",
+                            "quantity": 100,
+                            "mesure":"g"
+                        },
+                        {
+                            "name": "zestes d'un citron non traité",
+                            "quantity": null,
+                            "mesure":""
+                        },
+                        {
+                            "name": "beurre",
+                            "quantity": 100,
+                            "mesure":"g"
+                        },
+                        {
+                            "name": "feuille de gélatine",
+                            "quantity": 1,
+                            "mesure":""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pâte",
+                    "description": "Il faut ensuite faire torréfier la noix de coco, afin d'en exalter le parfum. Pour cela j'ai utilisé une poêle, dans laquelle j'ai versé la noix de coco, et au bout de 3mn elle était dorée (remuez sans arrêt). Réduisez les sablés en poudre à l'aide d'un pilon (ou avec un rouleau à pâtisserie), versez la noix de coco, puis le beurre fondu, et travaillez le mélange avec les mains pour bien l'amalgamer. Placez ensuite cette pâte dans un grand cadre carré, et réservez au frais. ",
+                    "ingredients":[
+                        {
+                            "name": "sablés pur beurre",
+                            "quantity": "200",
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "noix de coco râpée",
+                            "quantity": "40",
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "beurre",
+                            "quantity": "60",
+                            "mesure": "g"
+                        }
+                    ]
+                },
+                {
+                    "name": "montage",
+                    "description": "Pour monter la tarte, il faut que le lemon curd soit bien crémeux, donc bien froid (2h environ au frigo). Coupez le bout de la poche à douille à environ 2cm du bord, et dressez comme sur la photo.",
+                    "ingredients":[]
+                }
+            ]
+        },
+        {
+            "name": "Cookies",
+            "ingredients": [
+                {
+                    "name": "farine avec levure incorporée",
+                    "quantity": 280,
+                    "mesure": "g"
+                },
+                {
+                    "name": "maïzena",
+                    "quantity": 9,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sel fin",
+                    "quantity": 3,
+                    "mesure": "g"
+                },
+                {
+                    "name": "beurre doux",
+                    "quantity": 170,
+                    "mesure": "g"
+                },
+                {
+                    "name": "vergeoise blonde",
+                    "quantity": 100,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sucre en poudre",
+                    "quantity": 70,
+                    "mesure": "g"
+                },
+                {
+                    "name": "oeufs",
+                    "quantity": 2,
+                    "mesure": ""
+                },
+                {
+                    "name": "vanille liquide",
+                    "quantity": 12,
+                    "mesure": "g"
+                },
+                {
+                    "name": "chunks au chocolat",
+                    "quantity": 130,
+                    "mesure": "g"
+                }
+            ]
+        },
+        {
+            "name": "Tarte au café",
+            "ingredients": [
+                {
+                    "name": "farine type 55",
+                    "quantity": 120,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sucre glace",
+                    "quantity": 42,
+                    "mesure": "g"
+                },
+                {
+                    "name": "oeufs",
+                    "quantity": 25,
+                    "mesure": "g"
+                },
+                {
+                    "name": "beurre pommade",
+                    "quantity": 62,
+                    "mesure": "g"
+                },
+                {
+                    "name": "poudre d'amandes",
+                    "quantity": 13,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sel fin",
+                    "quantity": 2,
+                    "mesure": "g"
+                },
+                {
+                    "name": "chocolat blanc",
+                    "quantity": 225,
+                    "mesure": "g"
+                },
+                {
+                    "name": "crème liquide entière",
+                    "quantity": 390,
+                    "mesure": "g"
+                },
+                {
+                    "name": "café lyophilisé",
+                    "quantity": 29,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sucre en poudre",
+                    "quantity": 42,
+                    "mesure": "g"
+                },
+                {
+                    "name": "feuille de gélatine",
+                    "quantity": 1.5,
+                    "mesure": ""
+                },
+                {
+                    "name": "maïzena",
+                    "quantity": 15,
+                    "mesure": "g"
+                },
+                {
+                    "name": "blanc d'oeuf tempéré",
+                    "quantity": 45,
+                    "mesure": "g"
+                },
+                {
+                    "name": "jaune d'oeuf tempéré",
+                    "quantity": 25,
+                    "mesure": "g"
+                }
+            ]
+        },
+        {
+            "name": "Brownie",
+            "ingredients": [
+                {
+                    "name": "chocolat noir",
+                    "quantity": 200,
+                    "mesure": "g"
+                },
+                {
+                    "name": "beurre doux",
+                    "quantity": 75,
+                    "mesure": "g"
+                },
+                {
+                    "name": "beurre salé",
+                    "quantity": 75,
+                    "mesure": "g"
+                },
+                {
+                    "name": "vergeoise blonde",
+                    "quantity": 120,
+                    "mesure": "g"
+                },
+                {
+                    "name": "oeufs",
+                    "quantity": 150,
+                    "mesure": "g"
+                },
+                {
+                    "name": "farine type 55",
+                    "quantity": 50,
+                    "mesure": "g"
+                }
+            ]
+        },
+        {
+            "name": "Curry japonais",
+            "ingredients": [
+                {
+                    "name": "poulet (boeuf, agneau...)",
+                    "quantity": 450,
+                    "mesure": "g"
+                },
+                {
+                    "name": "oignons",
+                    "quantity": 450,
+                    "mesure": "g"
+                },
+                {
+                    "name": "carottes",
+                    "quantity": 250,
+                    "mesure": "g"
+                },
+                {
+                    "name": "huile de tournesol (ou de sésame)",
+                    "quantity": 1,
+                    "mesure": "cs"
+                },
+                {
+                    "name": "eau",
+                    "quantity": 660,
+                    "mesure": "ml"
+                },
+                {
+                    "name": "S&B Golden Curry Mix",
+                    "quantity": 100,
+                    "mesure": "gr"
+                }
+            ]
+        },
+        {
+            "name": "Gyoza",
+            "ingredients": [
+                {
+                    "name": "farine type 55",
+                    "quantity": 165,
+                    "mesure": "g"
+                },
+                {
+                    "name": "eau chaude",
+                    "quantity": 165,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sel fin",
+                    "quantity": 5,
+                    "mesure": "g"
+                },
+                {
+                    "name": "viande de porc hachée",
+                    "quantity": 380,
+                    "mesure": "g"
+                },
+                {
+                    "name": "poireau",
+                    "quantity": 1,
+                    "mesure": ""
+                },
+                {
+                    "name": "gingembre frais",
+                    "quantity": 3,
+                    "mesure": "cm"
+                },
+                {
+                    "name": "gros oignons",
+                    "quantity": 2,
+                    "mesure": ""
+                },
+                {
+                    "name": "gousses d'ail",
+                    "quantity": 5,
+                    "mesure": ""
+                },
+                {
+                    "name": "sauce soja salée",
+                    "quantity": 4,
+                    "mesure": "cs"
+                },
+                {
+                    "name": "sucre en poudre",
+                    "quantity": 1,
+                    "mesure": "cc"
+                },
+                {
+                    "name": "huile de sésame",
+                    "quantity": 1,
+                    "mesure": "cs"
+                }
+            ]
+        },
+        {
+            "name": "Carbonnade flammande",
+            "ingredients": [
+                {
+                    "name": "paleron de boeuf",
+                    "quantity": 1,
+                    "mesure": "kg"
+                },
+                {
+                    "name": "tranches de pain d'épices",
+                    "quantity": 5,
+                    "mesure": ""
+                },
+                {
+                    "name": "gros oignons émincés",
+                    "quantity": 400,
+                    "mesure": "g"
+                },
+                {
+                    "name": "beurre",
+                    "quantity": 30,
+                    "mesure": "ml"
+                },
+                {
+                    "name": "farine",
+                    "quantity": 30,
+                    "mesure": "ml"
+                },
+                {
+                    "name": "bière brune",
+                    "quantity": 1000,
+                    "mesure": "ml"
+                },
+                {
+                    "name": "lardons fumé",
+                    "quantity": 250,
+                    "mesure": "g"
+                },
+                {
+                    "name": "moutarde",
+                    "quantity": 3,
+                    "mesure": "cs"
+                }
+            ]
+        },
+        {
+            "name": "Nouilles sautée",
+            "ingredients": [
+                {
+                    "name": "sauce soja salée",
+                    "quantity": 15,
+                    "mesure": "g"
+                },
+                {
+                    "name": "sauce soja sucrée",
+                    "quantity": 15,
+                    "mesure": "g"
+                },
+                {
+                    "name": "nouilles chinoises",
+                    "quantity": 110,
+                    "mesure": "g"
+                },
+                {
+                    "name": "huile de tournesol (ou de sésame)",
+                    "quantity": 20,
+                    "mesure": "gr"
+                },
+                {
+                    "name": "oeufs",
+                    "quantity": 2,
+                    "mesure": ""
+                },
+                {
+                    "name": "gingembre râpé",
+                    "quantity": 2,
+                    "mesure": "gr"
+                },
+                {
+                    "name": "pousses de soja",
+                    "quantity": 50,
+                    "mesure": "gr"
+                },
+                {
+                    "name": "poivron vert",
+                    "quantity": 50,
+                    "mesure": "gr"
+                },
+                {
+                    "name": "poivron rouge",
+                    "quantity": 50,
+                    "mesure": "gr"
+                },
+                {
+                    "name": "oignons nouveaux",
+                    "quantity": 2,
+                    "mesure": ""
+                },
+                {
+                    "name": "ciboules chinoises",
+                    "quantity": 4,
+                    "mesure": ""
+                },
+                {
+                    "name": "blanc de poulet",
+                    "quantity": 1,
+                    "mesure": ""
+                },
+                {
+                    "name": "petites crevettes cuites (facultatif)",
+                    "quantity": 15,
+                    "mesure": ""
+                }
+            ]
+        },
+        {
+            "name": "Pain pita",
+            "ingredients": [
+                {
+                    "name": "farine",
+                    "quantity": 200,
+                    "mesure": "g"
+                },
+                {
+                    "name": "levure de boulanger déshydratée",
+                    "quantity": 1,
+                    "mesure": "cc"
+                },
+                {
+                    "name": "sel fin",
+                    "quantity": 1,
+                    "mesure": "cc"
+                },
+                {
+                    "name": "sucre en poudre",
+                    "quantity": 1,
+                    "mesure": "pincée"
+                },
+                {
+                    "name": "eau",
+                    "quantity": 100,
+                    "mesure": "ml"
+                },
+                {
+                    "name": "huile d'olive",
+                    "quantity": 1,
+                    "mesure": "cc"
+                }
+            ]
+        },
+        {
+            "name": "Crêpes coréennes au poireau",
+            "ingredients": [
+                {
+                    "name": "farine",
+                    "quantity": 6,
+                    "mesure": "cs"
+                },
+                {
+                    "name": "huile de sésame",
+                    "quantity": 2,
+                    "mesure": "cs"
+                },
+                {
+                    "name": "poireau",
+                    "quantity": 2,
+                    "mesure": ""
+                },
+                {
+                    "name": "oeufs",
+                    "quantity": 2,
+                    "mesure": ""
+                },
+                {
+                    "name": "huile de tournesol",
+                    "quantity": 2,
+                    "mesure": "cs"
+                },
+                {
+                    "name": "lait",
+                    "quantity": 20,
+                    "mesure": "cl"
+                },
+                {
+                    "name": "sauce soja salée",
+                    "quantity": 1,
+                    "mesure": "cs"
+                }
+            ]
+        }
+    ]
+}
