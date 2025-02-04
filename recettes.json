@@ -134,45 +134,45 @@
             ],
             "preparation": [
                 {
-                    "name" : "Brioche",
+                    "name": "Brioche",
                     "description": "Faites tiédir le lait, et diluez la levure dedans, ajoutez la farine, et tous les autres ingrédients. Pétrissez au robot à l'aide du crochet 1mn au 3ème cran, puis 10mn au premier cran (vitesse lente). La pâte obtenue est légèrement collante mais peut être facilement mise en boule (cornez bien les parois de la cuve). Filmez et mettez à pousser en étuve. Le temps de pousse est variable : il dépend de la fraîcheur de votre levure et, surtout, de la température. C'est difficile de donner un temps précis. Je laisse pousser la pâte dans mon four à 40° (fonction étuve), pendant deux heures. Elle doit se remplir totalement d'air et doubler de volume, c'est ça le plus important. Dégazez bien la pâte avec le poing pour chasser l'air, et étalez-la en un rectangle d'environ 55cm x 25cm. Inutile de fariner le plan de travail, ça ne collera pas si vous avez tout pesé rigoureusement. Vous pouvez étaler ce que vous voulez dessus : pâte à tartiner, confiture, crème pâtissière...vous pouvez même mettre une crème pâtissière et des pépites de chocolat ! Roulez délicatement dans le sens de LA LONGUEUR, coupez des tronçons de taille identique, d'environ 4cm de large : débrouillez-vous pour en avoir 13 ou 14 . Choisissez un excellent couteau bien aiguisé surtout ! Chemisez votre cercle avec du papier sulfurisé et déposez-le sur une exopat (la brioche sera plus moelleuse dessous si elle cuit au contact d'une exopat plutôt que sur quelque chose de métallique), déposez les morceaux de pâte de cette façon, en les espaçant. Couvrez avec une assiette creuse par exemple, et laissez à nouveau pousser en étuve durant environ une heure. La brioche doit bien lever : il ne doit plus du tout y avoir d'espace entre les tronçons de pâte. Préchauffez alors le four à 150° avec une grille sur le gradin qui est juste en-dessous de celui du milieu, et enfournez pour 35 à 40mn, EN METTANT L'EXOPAT DIRECTEMENT SUR LA GRILLE SURTOUT. Inutile de dorer. A la sortie du four, déposez la brioche sur une grille et laissez-la refroidir quelques instants avant de la saupoudrer de sucre glace à l'aide d'une petite passoire.",
                     "ingredients": [
-                {
-                    "name": "farine type 45",
-                    "quantity": 250,
-                    "mesure": "g"
-                },
-                {
-                    "name": "levure de boulanger fraîche",
-                    "quantity": 7,
-                    "mesure": "g"
-                },
-                {
-                    "name": "oeufs",
-                    "quantity": 50,
-                    "mesure": "g"
-                },
-                {
-                    "name": "lait entier",
-                    "quantity": 40,
-                    "mesure": "g"
-                },
-                {
-                    "name": "crème épaisse entière",
-                    "quantity": 80,
-                    "mesure": "g"
-                },
-                {
-                    "name": "sel fin",
-                    "quantity": 3,
-                    "mesure": "g"
-                },
-                {
-                    "name": "lait en poudre entier",
-                    "quantity": 6,
-                    "mesure": "g"
-                }
-            ]
+                        {
+                            "name": "farine type 45",
+                            "quantity": 250,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "levure de boulanger fraîche",
+                            "quantity": 7,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "oeufs",
+                            "quantity": 50,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "lait entier",
+                            "quantity": 40,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "crème épaisse entière",
+                            "quantity": 80,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "sel fin",
+                            "quantity": 3,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "lait en poudre entier",
+                            "quantity": 6,
+                            "mesure": "g"
+                        }
+                    ]
                 }
             ]
         },
@@ -229,14 +229,14 @@
                 {
                     "name": "La ganache montée",
                     "description": "Pour pouvoir être montée, la préparation doit rester une nuit au réfrigérateur.Pour une ganache montée, commencer par faire fondre le chocolat pour faciliter les choses pendant 5mn au micro-ondes à 300W. S'il n'est pas parfaitement fondu ce n'est pas grave, faites bouillir 1/3 de crème fleurette. Versez la crème bouillante sur le chocolat, mélangez bien avec une maryse (avec vigueur !)  : vous devez obtenir une ganache bien brillante et fluide. Ajoutez alors 2/3 de crème fleurette bien froide, mélangez bien, filmez et laissez au réfrigérateur une nuit (ou au moins 6h)",
-                    "ingredients" :[
+                    "ingredients": [
                         {
                             "name": "chocolat noir",
                             "quantity": 250,
                             "mesure": "g"
                         },
                         {
-                            "name":"crème fleurette (ou crème liquide entière)",
+                            "name": "crème fleurette (ou crème liquide entière)",
                             "quantity": 500,
                             "mesure": "g"
                         }
@@ -245,7 +245,7 @@
                 {
                     "name": "Molly cake",
                     "description": "Préchauffez le four à 150° chaleur tournante. Montez tout d'abord la crème fleurette, qui doit être très froide. Il faudra la monter tout doucement, et augmenter très progressivement la vitesse du robot. Je laisse à chaque fois 1mn sur vitesse lente, 1mn sur vitesse 2, 1mn sur vitesse 3 et quelques minutes sur vitesse 4 (je ne vais pas au-delà). Plus elle montera lentement plus elle sera réussie. Réservez pour l'instant la crème à température ambiante (si vous n'avez qu'un seul bol pour votre robot il faudra la transvaser et laver le bol pour la suite de la recette). Montez alors le sucre avec les oeufs entiers, ainsi que l'extrait de vanille. J'ai mis ici 3 gouttes d'extrait très concentré, mais si vous avez de l'extrait classique il faudra deux cuillères à café je pense. Laissez tourner le robot pendant 10mn sur vitesse max. Pendant ce temps tamisez la farine, le cacao et la levure chimique (un sachet entier). Ajoutez ensuite le sel fin, mélangez bien. Au bout de 10mn, le mélange avec les oeufs a bien blanchi et devient très mousseux, ajoutez alors les poudres. Et fouettez encore au robot, mais le moins longtemps possible : arrêtez-vous quand le mélange est homogène. Maintenant on travaille avec une maryse, ajoutez alors un peu de crème pour assouplir, et mélangez. Ajoutez ensuite tout le reste de crème fouettée, et incorporez délicatement, comme vous le feriez pour une mousse au chocolat. Graissez votre moule, même s'il est en silicone. J'utilise toujours une bombe à graisse, bien plus pratique et rapide que le beurre fondu. Enfournez pour 22mn si avez utilisé les moules Wilton ou 40mn avec un moule à manqué",
-                    "ingredients":[
+                    "ingredients": [
                         {
                             "name": "crème fleurette (ou crème liquide entière)",
                             "quantity": 300,
@@ -257,7 +257,7 @@
                             "mesure": "g"
                         },
                         {
-                            "name":"cacao amer en poudre",
+                            "name": "cacao amer en poudre",
                             "quantity": 60,
                             "mesure": "g"
                         },
@@ -286,7 +286,7 @@
                 {
                     "name": "le sirop",
                     "description": "Rien de plus facile : on verse l'eau minérale et le sucre dans une petite casserole. On fait bouillir simplement pour faire fondre le sucre, ensuite on ajoute le cacao et on mélange bien. Laissez refroidir.",
-                    "ingredients":[
+                    "ingredients": [
                         {
                             "name": "eau minerale",
                             "quantity": 100,
@@ -307,7 +307,7 @@
                 {
                     "name": "montage",
                     "description": "Maintenant que la ganache est très froide, on va la monter au robot, il faut y aller tout doucement. Si vous avez utilisé un moule à manqué, vous avez donc deux biscuits, qu'il faudra fendre en deux dans l'épaisseur, avec un grand couteau ou une lyre à génoise. Ensuite c'est très simple : vous alternez les couches de biscuits (en les imbibant à chaque fois au pinceau avec le sirop) et les couches de ganache montée, que vous étalerez avec une grande spatule coudée. Terminez en recouvrant le gâteau avec la ganache. J'ai travaillé sur un plateau tournant avec une corne, c'est plus facile pour lisser.",
-                    "ingredients":[]
+                    "ingredients": []
                 }
             ]
         },
@@ -359,43 +359,43 @@
                 {
                     "name": "lemon curd",
                     "description": "Commencez par faire tremper la gélatine dans l'eau froide. Puis, zestez le citron, mélangez les zestes avec le sucre en poudre, malaxez bien pour obtenir un sucre parfumé. Dans une casserole, versez les oeufs battus et le jus de citron, la feuille de gélatine bien essorée. Ajoutez le sucre parfumé, et mélangez bien, portez le tout à 85°, en mélangeant sans arrêt, sur feu assez vif. Versez ensuite cette crème dans un récipient, et laissez refroidir à température ambiante. Le mélange doit redescendre à 35°. Lorsque la crème au citron est à 35°, versez-là dans un récipient creux, afin de pouvoir la mixer au mixeur plongeant. Votre beurre doit être très pommade à ce moment-là. Il faut que le beurre et la crème soit à la même température, sinon le lemon curd ne prendra pas, et il sera impossible de le rattraper, Mixez sans arrêt, an ajoutant le beurre petit à petit, comme pour une mayonnaise. Placez-le immédiatement dans une poche sans douille, et réservez au frais",
-                    "ingredients":[
+                    "ingredients": [
                         {
                             "name": "oeufs",
                             "quantity": 2,
-                            "mesure":""
+                            "mesure": ""
                         },
                         {
                             "name": "sucre en poudre",
                             "quantity": 100,
-                            "mesure":"g"
+                            "mesure": "g"
                         },
                         {
                             "name": "jus de citron",
                             "quantity": 100,
-                            "mesure":"g"
+                            "mesure": "g"
                         },
                         {
                             "name": "zestes d'un citron non traité",
                             "quantity": null,
-                            "mesure":""
+                            "mesure": ""
                         },
                         {
                             "name": "beurre",
                             "quantity": 100,
-                            "mesure":"g"
+                            "mesure": "g"
                         },
                         {
                             "name": "feuille de gélatine",
                             "quantity": 1,
-                            "mesure":""
+                            "mesure": ""
                         }
                     ]
                 },
                 {
                     "name": "Pâte",
                     "description": "Il faut ensuite faire torréfier la noix de coco, afin d'en exalter le parfum. Pour cela j'ai utilisé une poêle, dans laquelle j'ai versé la noix de coco, et au bout de 3mn elle était dorée (remuez sans arrêt). Réduisez les sablés en poudre à l'aide d'un pilon (ou avec un rouleau à pâtisserie), versez la noix de coco, puis le beurre fondu, et travaillez le mélange avec les mains pour bien l'amalgamer. Placez ensuite cette pâte dans un grand cadre carré, et réservez au frais. ",
-                    "ingredients":[
+                    "ingredients": [
                         {
                             "name": "sablés pur beurre",
                             "quantity": "200",
@@ -416,7 +416,7 @@
                 {
                     "name": "montage",
                     "description": "Pour monter la tarte, il faut que le lemon curd soit bien crémeux, donc bien froid (2h environ au frigo). Coupez le bout de la poche à douille à environ 2cm du bord, et dressez comme sur la photo.",
-                    "ingredients":[]
+                    "ingredients": []
                 }
             ]
         },
@@ -467,6 +467,59 @@
                     "name": "chunks au chocolat",
                     "quantity": 130,
                     "mesure": "g"
+                }
+            ],
+            "preparation": [
+                {
+                    "name": "Cookies",
+                    "description": "Faîtes fondre la matière grasse (attention, pas trop chaud pour ne pas que les oeufs cuisent ensuite à son contact). Ajoutez les sucres (le fait d'ajouter les sucres avant les oeufs va faire baisser la température), puis l'oeuf entier, le jaune, le sel et la vanille liquide. Mélangez bien avec une cuillère magique ou un petit fouet. Mélangez ensemble la farine, la levure et la maïzena. Ajoutez les dans la préparation précédente, et mélangez bien. Ajoutez les chunks et mélangez encore. A ce moment là, il faut refroidir la pâte. je forme les boules maintenant, puis je les laisse au congélateur. Il faut former des boules bien rondes, et ne surtout pas les aplatir ! Je dispose ensuite donc mes cookies en quinconce sur deux plaques  en métal recouvertes de papier sulfu et je les laisse au congélateur pour 30mn. Au bout de ces 30mn, préchauffez votre four à 170° chaleur tournante. Lorsque le four est préchauffé (cela prend environ 10mn), enfournez la première plaque, et laissez cuire exactement 11mn. Retirez le papier sulfurisé de la plaque chaude tout de suite à la sortie du four, et dès que vous pourrez manipuler les cookies (normalement c'est possible assez rapidement), disposez-les sur une grille pour qu'ils refroidissent. Lorsque toutes ces merveilles seront bien froides, vous pourrez les stocker plusieurs jours dans une boite hermétique.",
+                    "ingredients": [
+                        {
+                            "name": "farine avec levure incorporée",
+                            "quantity": 280,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "maïzena",
+                            "quantity": 9,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "sel fin",
+                            "quantity": 3,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "beurre doux",
+                            "quantity": 170,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "vergeoise blonde",
+                            "quantity": 100,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "sucre en poudre",
+                            "quantity": 70,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "oeufs",
+                            "quantity": 2,
+                            "mesure": ""
+                        },
+                        {
+                            "name": "vanille liquide",
+                            "quantity": 12,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "chunks au chocolat",
+                            "quantity": 130,
+                            "mesure": "g"
+                        }
+                    ]
                 }
             ]
         },
@@ -539,9 +592,83 @@
                     "mesure": "g"
                 },
                 {
+                    "name": "1/4 gousse de vanille",
+                    "quantity": null,
+                    "mesure": ""
+                },
+                {
                     "name": "jaune d'oeuf tempéré",
                     "quantity": 25,
                     "mesure": "g"
+                }
+            ],
+            "preparation": [
+                {
+                    "name": "La pâte sucrée",
+                    "description": "Avec le fouet du robot, commencez par crémer le sucre glace, le beurre et les grains de vanille, pendant 5 bonnes minutes. Ajoutez ensuite l'oeuf et continuez à fouetter pour bien l'incorporer. Ajoutez ensuite le sel et fouettez à nouveau, puis la poudre d'amandes. Enlevez le fouet du robot et mettez la feuille, puis versez la farine tamisée et remuez à peine quelques secondes ! Plus vous travaillerez la pâte après l'incorporation de la farine, plus vous développerez le gluten, et plus votre tarte se rétractera à la cuisson. On s'arrête donc dès que l'on peut faire une boule avec la pâte. Filmez et laissez reposer une heure. Etalez la pâte entre deux exopat ou deux feuilles de papier sulfurisé, et foncez votre cercle. Laissez à nouveau reposer une heure. Préchauffez le four à 180° chaleur tournante, piquez bien le fond de tarte partout, et enfournez pour une quinzaine de minutes. La pâte ne doit pas être blanche, mais bien dorée. Si ce n'est pas le cas elle ne sera pas bonne ! (Si vous utilisez une exopat mettez-la directement sur la grille du four). Laissez refroidir le fond de tarte sur une grille, ôtez le cercle, et passez la passoire sur les bords pour bien les égaliser. Si vous avez fait ce fond de tarte la veille, filmez-le lorsqu'il est bien froid et conservez-le à température ambiante. Sinon vous pouvez le congeler sans problème.",
+                    "ingredients":[
+                        {
+                            "name": "farine type 55",
+                            "quantity": 105,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "sucre glace",
+                            "quantity": 42,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "oeufs battu en omelette",
+                            "quantity": 25,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "1/4 gousse de vanille",
+                            "quantity": null,
+                            "mesure": ""
+                        },
+                        {
+                            "name": "beurre pommade",
+                            "quantity": 62,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "poudre d'amandes",
+                            "quantity": 13,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "sel fin",
+                            "quantity": 2,
+                            "mesure": "g"
+                        }
+                    ]
+                },
+                {
+                    "name": "chantilly café",
+                    "description": "",
+                    "ingredients":[
+                        {
+                            "name": "crème liquide entière",
+                            "quantity": 300,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "café",
+                            "quantity": ,
+                            "mesure": ""
+                        },
+                        {
+                            "name": "",
+                            "quantity": ,
+                            "mesure": ""
+                        },
+                        {
+                            "name": "",
+                            "quantity": ,
+                            "mesure": ""
+                        }
+                    ]
                 }
             ]
         },
