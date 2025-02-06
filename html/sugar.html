@@ -14,21 +14,28 @@
 </head>
 
 <body>
-    <header class="head" w3-include-html="header.html"></header>
+    <header id="head" w3-include-html="header.html"></header>
     <main>
-        <div class="content">
-            <div class="side"></div>
-        <div class="recettes">
-            <a class="link" href="#">Pâte à tartiner</a><br>
-            <a class="link" href="#">Brioche</a><br>
-            <a class="link" href="#">Layer cake au chocolat</a><br>
-            <a class="link" href="#">Tarte citron merringué</a><br>
-            <a class="link" href="#">Cookies</a><br>
-            <a class="link" href="#">Tarte au café</a><br>
-            <a class="link" href="#">Le Brownie</a><br>
+        <div id="content">
+            <div id="left" class="side"></div>
+            <div id="recettes">
+                <a class="link" href="#" onclick="page('Pâte à tartiner',1)">Pâte à tartiner</a><br>
+                <a class="link" href="#" onclick="page('Brioche',1)">Brioche</a><br>
+                <a class="link" href="#" onclick="page('Layer cake au chocolat',1)">Layer cake au chocolat</a><br>
+                <a class="link" href="#" onclick="page('Tarte citron merringué',1)">Tarte citron merringué</a><br>
+                <a class="link" href="#" onclick="page('Cookies',1)">Cookies</a><br>
+                <a class="link" href="#" onclick="page('Tarte au café',1)">Tarte au café</a><br>
+                <a class="link" href="#" onclick="page('Brownie',1)">Le Brownie</a><br>
+            </div>
+            <div id="fiche">
+                <div id="title"></div>
+                <div id="photo"></div>
+                <div id="ratio"></div>
+                <div id="ingredient"></div>
+                <div id="etapes"></div>
+            </div>
+            <div id="right" class="side"></div>
         </div>
-        <div class="side"></div>
-    </div>
     </main>
     <footer w3-include-html="footer.html"></footer>
     <script src="/script.js"></script>

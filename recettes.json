@@ -2,6 +2,7 @@
     "recipes": [
         {
             "name": "Pâte à tartiner",
+            "img" : "/images/pate-a-tartiner.jpg",
             "ingredients": [
                 {
                     "name": "noisettes entières",
@@ -46,55 +47,15 @@
             ],
             "preparation": [
                 {
-                    "name": "Pâte à tartiner",
+                    "name": "",
                     "description": "Commencez par faire torréfier les noisettes. Pour cela il faut les mettre sur une plaque en métal, et les laisser 15mn dans un four préchauffé à 180°. Ensuite, afin d'ôter leur peau, il suffit de bien les faire rouler à l'intérieur d'un tamis, ou, à défaut, d'un torchon propre. Puis, dans une petite casserole, faîtes un caramel à sec. Pour faire le caramel à sec, il faut ajouter en trois fois le sucre en poudre, sur feu assez vif (mais pas trop fort non plus !). On le verse en 3 fois, ON NE REMUE JAMAIS !!  Par contre, à la fin, on donne des mouvements de rotation à la casserole afin d'aider les derniers grammes à fondre, puis on retire tout de suite la casserole du feu, on ajoute la moitié du sel, et, à l'aide d'une maryse, on verse immédiatement ce caramel sur une exopat ou du papier sulfurisé, afin d'obtenir une couche assez fine. Il ne doit pas être trop foncé, sinon il sera amer. Cassez ensuite cette feuille de caramel en petits morceaux, puis mixez-là avec la moitié des noisettes torréfiées, jusqu'à l'obtention d'une pâte semi-liquide. Et voilà, vous venez de faire du pralin ! Retirez ce pralin de la cuve de votre robot, et ajoutez-y maintenant la moitié de noisettes restantes et le sucre glace. Mixez jusqu'à l'obtention d'une pâte assez compacte : c'est la pâte de noisettes. Faîtes fondre au micro-onde pendant 3mn à 400W le chocolat au lait, ajoutez-les à la pâte de noisette, ainsi que le reste du sel, et mixez à nouveau. Ajoutez enfin le pralin, la poudre de lait, l'huile et le cacao, puis mixez à nouveau. Vous verrez qu'au départ le mélange est assez compact, mais plus vous mixerez plus il deviendra liquide.",
-                    "ingredients": [
-                        {
-                            "name": "noisettes entières",
-                            "quantity": 270,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "sucre en poudre",
-                            "quantity": 120,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "sucre glace",
-                            "quantity": 150,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "chocolat au lait a 40% de cacao",
-                            "quantity": 150,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "poudre de lait",
-                            "quantity": 25,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "cacao amer en poudre",
-                            "quantity": 10,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "huile de pépins de raisin (ou de tournesol)",
-                            "quantity": 5,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "sel fin",
-                            "quantity": 3,
-                            "mesure": "g"
-                        }
-                    ]
+                    "ingredients": []
                 }
             ]
         },
         {
             "name": "Brioche",
+            "img" : "/images/brioche.jpg",
             "ingredients": [
                 {
                     "name": "farine type 45",
@@ -134,50 +95,15 @@
             ],
             "preparation": [
                 {
-                    "name": "Brioche",
+                    "name": "",
                     "description": "Faites tiédir le lait, et diluez la levure dedans, ajoutez la farine, et tous les autres ingrédients. Pétrissez au robot à l'aide du crochet 1mn au 3ème cran, puis 10mn au premier cran (vitesse lente). La pâte obtenue est légèrement collante mais peut être facilement mise en boule (cornez bien les parois de la cuve). Filmez et mettez à pousser en étuve. Le temps de pousse est variable : il dépend de la fraîcheur de votre levure et, surtout, de la température. C'est difficile de donner un temps précis. Je laisse pousser la pâte dans mon four à 40° (fonction étuve), pendant deux heures. Elle doit se remplir totalement d'air et doubler de volume, c'est ça le plus important. Dégazez bien la pâte avec le poing pour chasser l'air, et étalez-la en un rectangle d'environ 55cm x 25cm. Inutile de fariner le plan de travail, ça ne collera pas si vous avez tout pesé rigoureusement. Vous pouvez étaler ce que vous voulez dessus : pâte à tartiner, confiture, crème pâtissière...vous pouvez même mettre une crème pâtissière et des pépites de chocolat ! Roulez délicatement dans le sens de LA LONGUEUR, coupez des tronçons de taille identique, d'environ 4cm de large : débrouillez-vous pour en avoir 13 ou 14 . Choisissez un excellent couteau bien aiguisé surtout ! Chemisez votre cercle avec du papier sulfurisé et déposez-le sur une exopat (la brioche sera plus moelleuse dessous si elle cuit au contact d'une exopat plutôt que sur quelque chose de métallique), déposez les morceaux de pâte de cette façon, en les espaçant. Couvrez avec une assiette creuse par exemple, et laissez à nouveau pousser en étuve durant environ une heure. La brioche doit bien lever : il ne doit plus du tout y avoir d'espace entre les tronçons de pâte. Préchauffez alors le four à 150° avec une grille sur le gradin qui est juste en-dessous de celui du milieu, et enfournez pour 35 à 40mn, EN METTANT L'EXOPAT DIRECTEMENT SUR LA GRILLE SURTOUT. Inutile de dorer. A la sortie du four, déposez la brioche sur une grille et laissez-la refroidir quelques instants avant de la saupoudrer de sucre glace à l'aide d'une petite passoire.",
-                    "ingredients": [
-                        {
-                            "name": "farine type 45",
-                            "quantity": 250,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "levure de boulanger fraîche",
-                            "quantity": 7,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "oeufs",
-                            "quantity": 50,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "lait entier",
-                            "quantity": 40,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "crème épaisse entière",
-                            "quantity": 80,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "sel fin",
-                            "quantity": 3,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "lait en poudre entier",
-                            "quantity": 6,
-                            "mesure": "g"
-                        }
-                    ]
+                    "ingredients": []
                 }
             ]
         },
         {
             "name": "Layer cake au chocolat",
+            "img" : "/images/layer-cake.jpeg",
             "ingredients": [
                 {
                     "name": "crème fleurette (ou crème liquide entière)",
@@ -313,6 +239,7 @@
         },
         {
             "name": "Tarte citron merringué",
+            "img" : "/images/tarteCitron.PNG",
             "ingredients": [
                 {
                     "name": "oeufs",
@@ -422,6 +349,7 @@
         },
         {
             "name": "Cookies",
+            "img" : "/images/",
             "ingredients": [
                 {
                     "name": "farine avec levure incorporée",
@@ -471,60 +399,15 @@
             ],
             "preparation": [
                 {
-                    "name": "Cookies",
+                    "name": "",
                     "description": "Faîtes fondre la matière grasse (attention, pas trop chaud pour ne pas que les oeufs cuisent ensuite à son contact). Ajoutez les sucres (le fait d'ajouter les sucres avant les oeufs va faire baisser la température), puis l'oeuf entier, le jaune, le sel et la vanille liquide. Mélangez bien avec une cuillère magique ou un petit fouet. Mélangez ensemble la farine, la levure et la maïzena. Ajoutez les dans la préparation précédente, et mélangez bien. Ajoutez les chunks et mélangez encore. A ce moment là, il faut refroidir la pâte. je forme les boules maintenant, puis je les laisse au congélateur. Il faut former des boules bien rondes, et ne surtout pas les aplatir ! Je dispose ensuite donc mes cookies en quinconce sur deux plaques  en métal recouvertes de papier sulfu et je les laisse au congélateur pour 30mn. Au bout de ces 30mn, préchauffez votre four à 170° chaleur tournante. Lorsque le four est préchauffé (cela prend environ 10mn), enfournez la première plaque, et laissez cuire exactement 11mn. Retirez le papier sulfurisé de la plaque chaude tout de suite à la sortie du four, et dès que vous pourrez manipuler les cookies (normalement c'est possible assez rapidement), disposez-les sur une grille pour qu'ils refroidissent. Lorsque toutes ces merveilles seront bien froides, vous pourrez les stocker plusieurs jours dans une boite hermétique.",
-                    "ingredients": [
-                        {
-                            "name": "farine avec levure incorporée",
-                            "quantity": 280,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "maïzena",
-                            "quantity": 9,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "sel fin",
-                            "quantity": 3,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "beurre doux",
-                            "quantity": 170,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "vergeoise blonde",
-                            "quantity": 100,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "sucre en poudre",
-                            "quantity": 70,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "oeufs",
-                            "quantity": 2,
-                            "mesure": ""
-                        },
-                        {
-                            "name": "vanille liquide",
-                            "quantity": 12,
-                            "mesure": "g"
-                        },
-                        {
-                            "name": "chunks au chocolat",
-                            "quantity": 130,
-                            "mesure": "g"
-                        }
-                    ]
+                    "ingredients": []
                 }
             ]
         },
         {
             "name": "Tarte au café",
+            "img" : "/images/",
             "ingredients": [
                 {
                     "name": "farine type 55",
@@ -646,7 +529,7 @@
                 },
                 {
                     "name": "chantilly café",
-                    "description": "",
+                    "description": "Prenez la gélatine, faîtes-la ramollir dans de l'eau froide. Portez la crème à ébullition, ajouter le café lyophilisé. Ajoutez le sucre et la gélatine essorée, puis filmez et réservez au frais toute une nuit, ou au moins 3h",
                     "ingredients":[
                         {
                             "name": "crème liquide entière",
@@ -654,26 +537,84 @@
                             "mesure": "g"
                         },
                         {
-                            "name": "café",
-                            "quantity": ,
-                            "mesure": ""
+                            "name": "café lyophilisé",
+                            "quantity": 21,
+                            "mesure": "g"
                         },
                         {
-                            "name": "",
-                            "quantity": ,
-                            "mesure": ""
+                            "name": "sucre en poudre",
+                            "quantity": 12,
+                            "mesure": "g"
                         },
                         {
-                            "name": "",
-                            "quantity": ,
+                            "name": "feuille de gélatine",
+                            "quantity": 1.5,
                             "mesure": ""
                         }
                     ]
+                },
+                {
+                    "name": "La ganache café",
+                    "description": "Portez la crème à ébullition puis, hors du feu, ajoutez l'extrait le café lyophilisé. Faîtes fondre le chocolat au micro-onde, à 400W pendant 3mn, puis ajoutez la crème au café, et émulsionnez le tout à la maryse. Filmez et réservez au frais.",
+                    "ingredients":[
+                        {
+                            "name": "chocolat blanc",
+                            "quantity": 225,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "crème liquide entière",
+                            "quantity": 90,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "café lyophilisé",
+                            "quantity": 8,
+                            "mesure": "g"
+                        }
+                    ]
+                },
+                {
+                    "name": "Le biscuit cuillère",
+                    "description": "Préchauffez le four à 180°chaleur tournante. Montez les blancs d'oeufs au batteur électrique, en ajoutant petit à petit le sucre en poudre : les blancs doivent être fermes et faire le bec d'oiseau. Ajoutez les jaunes et fouettez à peine quelques secondes, à vitesse minimale. Ajoutez la farine et la fécule. Incorporez délicatement à la maryse. Versez l'appareil dans une poche sans douille, et pochez des cercles de la taille de votre cercle à tarte sur du papier sulfurisé déposé sur une plaque. Saupoudrez de sucre glace et enfournez pour environ 12mn",
+                    "ingredients":[
+                        {
+                            "name": "farine type 55",
+                            "quantity": "15",
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "maïzena",
+                            "quantity": "15",
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "blanc d'oeuf tempéré",
+                            "quantity": "45",
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "sucre en poudre",
+                            "quantity": "30",
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "jaune d'oeuf tempéré",
+                            "quantity": "25",
+                            "mesure": "g"
+                        }
+                    ]
+                },
+                {
+                    "name": "montage",
+                    "description": "Maintenant que la crème pour la chantilly est bien froide, après une nuit au réfrigérateur, vous pouvez la monter. Fouettez la crème progressivement, jusqu'à l'obtention d'une consistance relativement ferme, versez-la dans une poche munie d'une douille cannelée. Etalez une fine couche de ganache sur le fond de tarte. Ajoutez les disques de biscuit cuillère, imbibez-les bien de café serré. Ajoutez à nouveau une fine couche de ganache, puis lissez à l'aide d'une spatule. Décorez avec la chantilly en faisant des rosaces, et ajoutez quelques grains de café au chocolat",
+                    "ingredients":[]
                 }
             ]
         },
         {
             "name": "Brownie",
+            "img" : "/images/",
             "ingredients": [
                 {
                     "name": "chocolat noir",
@@ -705,10 +646,18 @@
                     "quantity": 50,
                     "mesure": "g"
                 }
+            ],
+            "preparation":[
+                {
+                    "name": "",
+                    "description": "Préchauffez le four à 150° chaleur tournante. Graissez votre cercle à entremets de 18cm. Déposez-le sur du papier aluminium, et rabattez bien le papier sur les bords extérieurs, pour bien le souder contre le cercle, afin que la pâte ne coule pas. Graissez avec une bombe à graisse (ou du beurre fondu). Déposez le tout sur une plaque à pâtisserie perforéee, elle-même recouverte d'une Silpat. La Silpat permettra au brownie de rester moelleux dessous. C'est mieux que de le cuire au contact du métal. Faîtes fondre ensemble 200g de chocolat et 150g de beurre au micro-ondes, pendant environ 4mn à 300W. Mélangez bien à la maryse pour que le mélange soit lisse et brillant. Fouettez à la main 3 oeufs et 120g de vergeoise blonde rapidement, avec une cuillère magique ou un fouet, mais sans blanchir ! Mélangez le moins possible. Cela est très important pour la texture finale du brownie. Ajoutez le mélange beurre / chocolat fondu et mélangez bien mais sans insister. Versez 50g de farine tamisée, et mélangez à nouveau, toujours sans insister. Concassez grossièrement 100g de noix de pécan torréfiées et ajoutez-les à la préparation. Versez la pâte dans le cercle. Vous pouvez également ne pas mettre de noix de pécan dans la pâte et en disposer quelques unes par-dessus, tout autour. Enfournez pour 25mn. Le brownie est encore tremblotant au centre, c'est normal. Laissez-le refroidir au moins 30mn à température ambiante, sur une grille, puis retirez le cercle et le papier alu",
+                    "ingredients": []
+                }
             ]
         },
         {
             "name": "Curry japonais",
+            "img" : "/images/curry.jpg",
             "ingredients": [
                 {
                     "name": "poulet (boeuf, agneau...)",
@@ -740,10 +689,18 @@
                     "quantity": 100,
                     "mesure": "gr"
                 }
+            ],
+            "preparation":[
+                {
+                    "name": "",
+                    "description": "Dans une grande casserole, faire sauté la viande et les légumes dans l'huile, à feu moyen, pendant environ 5min. Ajouter de l'eau et porter a ébullition. Réduire le feu, couvrir et laisser mijoter jusqu'à ce que les ingrédients soient tendres, pendant 15min. Retirer du feu, casser en morceaux le golden curry et les ajouter dans la casserole. Remuer jusqu'à ce que les morceaux de curry soient complètement fondus. Laisser mijoter environ 5min, tout en remuant. Servir chaud avec du riz ou des pâtes.",
+                    "ingredients":[]
+                }
             ]
         },
         {
             "name": "Gyoza",
+            "img" : "/images/gyoza.jpg",
             "ingredients": [
                 {
                     "name": "farine type 55",
@@ -800,10 +757,85 @@
                     "quantity": 1,
                     "mesure": "cs"
                 }
+            ],
+            "preparation":[
+                {
+                    "name": "la pâte à gyoza",
+                    "description": "Placez la farine et le sel dans un grand cul de poule et creusez un puits au centre. Versez l’eau chaude au centre et pétrissez pendant 5 bonnes minutes, jusqu’à obtenir une pâte homogène et bien lisse. Ne soyez pas inquiet si vous avez des grumeaux au départ, c’est tout à fait normal. Laissez la pâte reposer 1h à température ambiante. Pendant que votre pâte repose, vous pouvez passer à la préparation de la farce.",
+                    "ingredients":[
+                        {
+                            "name": "farine type 55",
+                            "quantity": 250,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "eau chaude",
+                            "quantity": 165,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "sel fin",
+                            "quantity": 5,
+                            "mesure": "g"
+                        }
+                    ]
+                },
+                {
+                    "name": "La farce",
+                    "description": "Lavez soigneusement le poireau et coupez-le en tronçons d’environ 3cm. De même, coupez grossièrement l’oignon et l’ail. Hachez le tout. Ensuite, épluchez le gingembre. Astuce de chef : lorsque vous “grattez” le gingembre avec une cuillère à café, cela marche parfaitement et vous évitera d’en perdre autant que si vous utilisez un couteau. Hachez également le gingembre. Assemblez le porc haché au mélange poireau/oignon/ail/gingembre puis assaisonnez avec la sauce soja, l’huile de sésame et le sucre. Votre farce est prête à être utilisée !",
+                    "ingredients":[
+                        {
+                            "name": "viande de porc hachée",
+                            "quantity": 380,
+                            "mesure": "g"
+                        },
+                        {
+                            "name": "poireau",
+                            "quantity": 1,
+                            "mesure": ""
+                        },
+                        {
+                            "name": "gingembre frais",
+                            "quantity": 3,
+                            "mesure": "cm"
+                        },
+                        {
+                            "name": "gros oignons",
+                            "quantity": 2,
+                            "mesure": ""
+                        },
+                        {
+                            "name": "gousses d'ail",
+                            "quantity": 5,
+                            "mesure": ""
+                        },
+                        {
+                            "name": "sauce soja salée",
+                            "quantity": 4,
+                            "mesure": "cs"
+                        },
+                        {
+                            "name": "sucre en poudre",
+                            "quantity": 1,
+                            "mesure": "cc"
+                        },
+                        {
+                            "name": "huile de sésame",
+                            "quantity": 1,
+                            "mesure": "cs"
+                        }
+                    ]
+                },
+                {
+                    "name": "montage",
+                    "description": " A l’aide d’une machine à pâtes, étalez des pâtons le plus finement possible, et détaillez ensuite des ronds de 9cm de diamètre à l’emporte-pièce. Placez le rond de pâte entre le pouce et l’index ; à l’aide d’une cuillère à café, mettez de la farce au centre, dans le creux formé entre le pouce et l’index. Humidifiez très légèrement les bords de la pâte avec un peu d’eau froide. Formez des “volants” avec le côté du gyoza qui est vers vous, et soudez bien les bords. Continuez ainsi pour les autres gyozas, jusqu’à épuisement des ingrédients. Faites chauffer de l’huile dans une poêle à feu vif. Une fois bien chaude, placez les gyozas et faites griller 1 minute. Versez ensuite de l’eau sur 1 cm (attention aux projections !), et couvrez. Laissez cuire à cœur environ 7 minutes, avant d’ôter le couvercle et de laisser l’eau complètement s’évaporer. Vous pouvez baisser le feu à moyen lors de cette étape afin d’éviter de brûler les gyozas. C’est prêt !",
+                    "ingredients":[]
+                }
             ]
         },
         {
-            "name": "Carbonnade flammande",
+            "name": "Carbonnade flamande",
+            "img" : "/images/",
             "ingredients": [
                 {
                     "name": "paleron de boeuf",
@@ -845,10 +877,18 @@
                     "quantity": 3,
                     "mesure": "cs"
                 }
+            ],
+            "preparation":[
+                {
+                    "name": "",
+                    "description": "Couper la viande en cubes de 2 à 3 centimètres de côté. Découper grossièrement les oignons. Faire fondre le beurre et faire suer les oignons dedans 10 minutes pour les ramollir (feu au mini à couvert). Ajouter le lard en augmentant légèrement le feu, remuer régulièrement en essayant de garder couvert le plus possible. Une fois le lard bien rose, retirer le tout (sauf le jus) et le réserver dans un plat. Mettre le feu au maxi et mettre la viande dans la cocotte. Remuer régulièrement (ne pas couvrir), la viande doit se colorer de tous les côtés, elle va finir par rendre pas mal de jus. Retirer la cocotte du feu, mettre la viande dans un plat en conservant le jus dans la cocotte. Diluer la cassonade dans le jus de viande et mettre sur le feu à fond pour le réduire de moitié. Une fois réduit, mettre le feu au mini et remettre le mélange lard-oignons en le mêlant au 'sirop', ajouter la viande et re-mélanger, ajouter le bouquet garni et recouvrir de bière, saler très légèrement. Recouvrir délicatement toute la surface avec le pain d'épices 'moutardé'. Laisser mijoter à couvert 3 heures sans remuer, tant que le pain d'épices n'est pas fondu (retirer le bouquet après 1 heure ou 2 maxi). En cours de 'mijotage', rectifier l'assaisonnement si besoin. Si après trois heures, le jus est encore trop liquide, laisser encore mijoter en laissant le couvercle en partie ouvert, la sauce doit être légèrement collante en surface mais bien liquide en dessous et ne doit surtout pas brûler au fond.",
+                    "ingredients":[]
+                }
             ]
         },
         {
             "name": "Nouilles sautée",
+            "img" : "/images/",
             "ingredients": [
                 {
                     "name": "sauce soja salée",
@@ -915,14 +955,22 @@
                     "quantity": 15,
                     "mesure": ""
                 }
+            ],
+            "preparation":[
+                {
+                    "name": "",
+                    "description": "Commencez par plonger les nouilles 1mn dans l'eau frémissante, et rincez-les tout de suite sous l'eau froide pour stopper la cuisson. Normalement les nouilles mettent 2min à cuire, mais ici il faut diminuer ce temps par deux, car elles continueront leur cuisson dans la poêle ensuite. Réservez. Coupez les ciboules en tronçons d'environ 2,5cm. Émincez finement les oignons nouveaux. Pelez le poivron, coupez le en tout petit dès. Rapez le gingembre. Mélangez les sauces sucrées et salées. Préparez le soja, et battez les oeufs en omelette dans un récipient. Émincez finement le blanc de poulet, et réservez les crevettes cuites. Maintenant qu'on a tout sous la main, on commence la cuisson ! Versez l'huile dans un wok et faites chauffer :  elle doit être très chaude ! La cuisson de ces nouilles se fait normalement dans un wok ou une plancha, très chaude, et sans jamais cesser de remuer. Ajoutez la ciboule, les oignons, les poivrons, et les morceaux de poulet. Mélanger bien tout pour que soit légèrement coloré. Dans un coin de la poêle, versez les oeufs, et attendez un peu qu'ils cuisent, avant de replier l'omelette, pour ne pas qu'elle se mélange n'importe comment aux légumes. Versez maintenant la sauce, ajoutez les nouilles, les crevettes, le gingembre  et le soja. Remuez sans arrêt pendant une minute, toujours sur feu fort. l'omelette va alors se découper un plusieurs petit morceaux. Dressez les nouilles en essayant de créer du volume, ajoutez les graines de sésames, de ka coriandre fraîchement ciselée, et parsemez de quelques oignons frits. Dégustez sans attendre. ",
+                    "ingredients":[]
+                }
             ]
         },
         {
             "name": "Pain pita",
+            "img" : "/images/",
             "ingredients": [
                 {
                     "name": "farine",
-                    "quantity": 200,
+                    "quantity": 400,
                     "mesure": "g"
                 },
                 {
@@ -942,7 +990,7 @@
                 },
                 {
                     "name": "eau",
-                    "quantity": 100,
+                    "quantity": 200,
                     "mesure": "ml"
                 },
                 {
@@ -950,10 +998,18 @@
                     "quantity": 1,
                     "mesure": "cc"
                 }
+            ],
+            "preparation":[
+                {
+                    "name": "",
+                    "description": "Diluez la levure de boulanger dans l'eau avec une pincée de sucre 10 minutes. Mettez la farine et le sel dans un bol, mélangez bien et ajoutez l'eau avec levure, pétrissez jusqu'à formation d'une boule. Mettez la boule sur le plan de travail et pétrissez 5 minutes. Huilez la boule obtenue et couvrez d'un film alimentaire, laissez lever 1 heure au moins. Divisez la pâte en 4 après avoir chassé l'air, puis étalez la avec un rouleau à pâtisserie. Faites cuire dans une poêle chaude sans matière grasse pour 3 à 5 minutes en retournant le pain",
+                    "ingredients":[]
+                }
             ]
         },
         {
             "name": "Crêpes coréennes au poireau",
+            "img" : "/images/",
             "ingredients": [
                 {
                     "name": "farine",
@@ -989,6 +1045,13 @@
                     "name": "sauce soja salée",
                     "quantity": 1,
                     "mesure": "cs"
+                }
+            ],
+            "preparation":[
+                {
+                    "name": "",
+                    "description": "Nettoyer les poireaux, les émincer et les faire revenir dans de l'huile de sésame, laisser cuire à couvert environ 30 mn (ils doivent être cuits mais pas trempés). Saler avec un peu de sauce soja. Battre les oeufs avec l'huile, la farine et un tout petit peu de lait pour détendre. Lisser (les grumeaux doivent partir facilement, sinon mouiller un peu au lait). Ajouter un trait de sauce de soja pour saler. Une fois la pâte lissée, ajouter le lait jusqu'à avoir une pâte fluide et assez liquide (une banale pâte à crêpes). Ajouter les poireaux un peu tiédis, mélanger. Faire cuire de petites crêpes de 3 mm d'épaisseur dans une poêle à blinis ou une poêle de petit diamètre. Servir chaud ou tiède avec de la sauce soja.",
+                    "ingredients":[]
                 }
             ]
         }

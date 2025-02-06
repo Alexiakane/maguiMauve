@@ -3,7 +3,7 @@
     font-family: "Rouge Script", serif;
 }
 
-.head {
+#head {
     height: 30vh;
 }
 
@@ -113,7 +113,7 @@ html {
     border: 0;
 }
 
-#head {
+#header {
     height: 15vh;
     align-content: center;
     text-align: center;
@@ -166,3 +166,36 @@ html {
 #karadoc {
     align-content: center;
 }
+
+.top .mB {
+    display: none;
+}
+
+@media screen and (max-width: 767px) {
+    .top a:not(:first-child) {display: none;}
+    .top a.mB {
+        float: right;
+        display: block;
+    }
+}
+ @media screen and (max-width: 767px) {
+    .top.responsive {position: relative;}
+    .top.responsive a.mB {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+ }
+ .top.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+ }
+ 
+ #burger {
+    height: 35px;
+ }
+ #close {
+    height: 35px;
+    display: none;
+ }

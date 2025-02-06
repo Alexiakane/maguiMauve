@@ -14,20 +14,28 @@
 </head>
 
 <body>
-    <header class="head" w3-include-html="header.html"></header>
+    <header id="head" w3-include-html="header.html"></header>
     <main>
-        <div class="content">
-        <div class="side"></div>
-        <div class="recettes">
-            <a class="link" href="#">Curry japonais</a><br>
-            <a class="link" href="#">Gyoza</a><br>
-            <a class="link" href="#">Carbonnade flamande</a><br>
-            <a class="link" href="#">Nouilles sautée</a><br>
-            <a class="link" href="#">Pain pita</a><br>
-            <a class="link" href="#">Crêpes coréeennes au poireau</a><br>
+        <div id="content">
+            <div id="left" class="side"></div>
+            <div id="recettes">
+                <a class="link" href="#" onclick="page('Curry japonais', 1)">Curry japonais</a><br>
+                <a class="link" href="#" onclick="page('Gyoza', 1)">Gyoza</a><br>
+                <a class="link" href="#" onclick="page('Carbonnade flamande', 1)">Carbonnade flamande</a><br>
+                <a class="link" href="#" onclick="page('Nouilles sautée', 1)">Nouilles sautée</a><br>
+                <a class="link" href="#" onclick="page('Pain pita',1)">Pain pita</a><br>
+                <a class="link" href="#" onclick="page('Crêpes coréeennes au poireau',1)">Crêpes coréeennes au
+                    poireau</a><br>
+            </div>
+            <div id="fiche">
+                <div id="title"></div>
+                <div id="photo"></div>
+                <div id="ratio"></div>
+                <div id="ingredient"></div>
+                <div id="etapes"></div>
+            </div>
+            <div id="right" class="side"></div>
         </div>
-        <div class="side"></div>
-    </div>
     </main>
     <footer w3-include-html="footer.html"></footer>
     <script src="/script.js"></script>
