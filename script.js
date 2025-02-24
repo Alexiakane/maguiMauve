@@ -153,6 +153,24 @@ function page(choice, ratio) {
                         const selector1 = document.createElement("input");
                         selector1.setAttribute("type", "radio");
                         selector1.setAttribute("id", "normal");
+                        selector1.addEventListener("click", function(event){
+                            while(title.firstChild) {
+                             title.removeChild(title.firstChild);
+                            }
+                            while(image.firstChild) {
+                             image.removeChild(image.firstChild);
+                            }
+                            while(ingredient.firstChild) {
+                             ingredient.removeChild(ingredient.firstChild);
+                            }
+                            while(etapes.firstChild){
+                             etapes.removeChild(etapes.firstChild);
+                            }
+                            while(multiple.firstChild){
+                             multiple.removeChild(multiple.firstChild);
+                            }
+                            page(choice, 1);
+                         })
                         const label1 = document.createElement("label");
                         label1.textContent = "Portion normal";
                         label1.style.fontSize = "4vh";
@@ -163,9 +181,22 @@ function page(choice, ratio) {
                         selector2.setAttribute("type", "radio");
                         selector2.setAttribute("id", "double");
                         selector2.addEventListener("click", function(event){
-                           
-                            page(choice, 2);
-                            //location.reload();
+                           while(title.firstChild) {
+                            title.removeChild(title.firstChild);
+                           }
+                           while(image.firstChild) {
+                            image.removeChild(image.firstChild);
+                           }
+                           while(ingredient.firstChild) {
+                            ingredient.removeChild(ingredient.firstChild);
+                           }
+                           while(etapes.firstChild){
+                            etapes.removeChild(etapes.firstChild);
+                           }
+                           while(multiple.firstChild){
+                            multiple.removeChild(multiple.firstChild);
+                           }
+                           page(choice, 2);
                         })
                         const label2 = document.createElement("label");
                         label2.textContent = "On double la dose !";
@@ -176,6 +207,24 @@ function page(choice, ratio) {
                         const selector3 = document.createElement("input");
                         selector3.setAttribute("type", "radio");
                         selector3.setAttribute("id", "triple");
+                        selector3.addEventListener("click", function(event){
+                            while(title.firstChild) {
+                             title.removeChild(title.firstChild);
+                            }
+                            while(image.firstChild) {
+                             image.removeChild(image.firstChild);
+                            }
+                            while(ingredient.firstChild) {
+                             ingredient.removeChild(ingredient.firstChild);
+                            }
+                            while(etapes.firstChild){
+                             etapes.removeChild(etapes.firstChild);
+                            }
+                            while(multiple.firstChild){
+                             multiple.removeChild(multiple.firstChild);
+                            }
+                            page(choice, 3);
+                         })
                         const label3 = document.createElement("label");
                         label3.textContent = "Une triple bien fraîche !";
                         label3.style.fontSize = "4vh";
@@ -220,7 +269,14 @@ function page(choice, ratio) {
     }
 
 }
-
+const curry = document.getElementById("curry");
+if(curry != null){
+    curry.addEventListener("click", function(event){
+        window.location.href = "/html/salt.html";
+        page("Curry japonais", 1);
+    }
+)
+}
 function myFunction() {
     const x = document.getElementById("nav");
     if (x.className === "top") {
