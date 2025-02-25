@@ -119,7 +119,14 @@ html {
     text-align: center;
 }
 
-#nav {
+.top.responsive {
+    display: block;
+    height: 28vh;
+    width: 100%;
+    background-color: #fca8ea;
+}
+
+.top {
     display: flex;
     justify-content: space-evenly;
     height: 5vh;
@@ -165,6 +172,19 @@ html {
 }
 #karadoc {
     align-content: center;
+}
+
+.top{
+    background-color: hotpink;
+    overflow: hidden;
+}
+
+.top a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
 }
 
 .top .mB {

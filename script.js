@@ -113,14 +113,7 @@ if (formulaire != null) {
         })
 }
 
-/*const test = document.getElementById('test');
-
-
-const para1 = document.createElement("p");
-para1.textContent = data.recipes[0].preparation[0].description;
-test.append(para1);
-console.log(para1);
-})*/
+// chargement d'une recette choice avec la portion ratio dans les pages salt ou sugar
 function page(choice, ratio) {
     const recettes = document.getElementById("recettes")
     const container = document.getElementById("fiche");
@@ -269,20 +262,86 @@ function page(choice, ratio) {
     }
 
 }
+
+// ajout des listener declic sur une dernière recette pour la page home
+// le listener clic fait une bascule sur page salt ou sugar avec un paramètre d'url = recette
 const curry = document.getElementById("curry");
 if(curry != null){
     curry.addEventListener("click", function(event){
-        window.location.href = "/html/salt.html";
-        page("Curry japonais", 1);
+        window.location.href = "/html/salt.html?id=curry";
     }
 )
 }
+const gyoza = document.getElementById("gyoza");
+if(gyoza != null){
+    gyoza.addEventListener("click", function(event){
+        window.location.href = "/html/salt.html?id=gyoza";
+    }
+)
+}
+const chocolatAtartiner = document.getElementById("chocolatAtartiner");
+if(chocolatAtartiner != null){
+    chocolatAtartiner.addEventListener("click", function(event){
+        window.location.href = "/html/salt.html?id=chocolatAtartiner";
+    }
+)
+}
+const brioche = document.getElementById("brioche");
+if(brioche != null){
+    brioche.addEventListener("click", function(event){
+        window.location.href = "/html/salt.html?id=brioche";
+    }
+)
+}
+const layerCake = document.getElementById("layerCake");
+if(layerCake != null){
+    layerCake.addEventListener("click", function(event){
+        window.location.href = "/html/salt.html?id=layerCake";
+    }
+)
+}
+const tarteCitron = document.getElementById("tarteCitron");
+if(tarteCitron != null){
+    tarteCitron.addEventListener("click", function(event){
+        window.location.href = "/html/salt.html?id=tarteCitron";
+    }
+)
+}
+
+// détection d'un paramètre d'url et appel de la fonction page pour charger la recette associée
+const urlParams = new URLSearchParams(window.location.search);
+const idRecette = urlParams.get('id');
+if (idRecette != null) {
+    switch(idRecette) {
+        case "curry":
+            page("Curry japonais", 1);
+            break;
+        case "gyoza":
+            page("Gyoza", 1);
+            break;
+        case "chocolatAtartiner":
+            page("Pâte à tartiner", 1);
+            break;
+        case "brioche":
+            page("Brioche", 1);
+            break;
+        case "layerCake":
+            page("Layer cake au chocolat", 1);
+            break;
+        case "tarteCitron":
+            page("Tarte citron merringué", 1);
+            break;
+    }
+
+}
+
+// responsive menu burger
 function myFunction() {
     const x = document.getElementById("nav");
     if (x.className === "top") {
-        x.classname += "responsive";
+        x.classList.add("responsive");
     } else {
-        x.className = "top";
+        x.classList.remove("responsive");
     }
     const burger = document.getElementById("burger");
     if (burger.getAttribute("src") === "/images/menuB.PNG") {
