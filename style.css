@@ -35,7 +35,7 @@
 .left {
     border: solid var(--colors-fourth) 3px;
     border-radius: 15%;
-    height: 45%;
+    height: 30%;
     width: 70%;
     background-color: var(--colors-third);
     position: relative;
@@ -58,7 +58,6 @@
     display: flex;
     justify-content: space-between;
 }
-
 #accueil {
     width: 50vw;
     display: flex;

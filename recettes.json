@@ -349,7 +349,7 @@
         },
         {
             "name": "Cookies",
-            "img" : "/images/",
+            "img" : "/images/cookies.jpg",
             "ingredients": [
                 {
                     "name": "farine avec levure incorporée",
@@ -407,7 +407,7 @@
         },
         {
             "name": "Tarte au café",
-            "img" : "/images/",
+            "img" : "/images/tarteCafe.jpg",
             "ingredients": [
                 {
                     "name": "farine type 55",
@@ -614,7 +614,7 @@
         },
         {
             "name": "Brownie",
-            "img" : "/images/",
+            "img" : "/images/brownies.jpg",
             "ingredients": [
                 {
                     "name": "chocolat noir",
@@ -835,7 +835,7 @@
         },
         {
             "name": "Carbonnade flamande",
-            "img" : "/images/",
+            "img" : "/images/carbonnade.jpg",
             "ingredients": [
                 {
                     "name": "paleron de boeuf",
@@ -888,7 +888,7 @@
         },
         {
             "name": "Nouilles sautée",
-            "img" : "/images/",
+            "img" : "/images/nouillesSautees.jpg",
             "ingredients": [
                 {
                     "name": "sauce soja salée",
@@ -966,7 +966,7 @@
         },
         {
             "name": "Pain pita",
-            "img" : "/images/",
+            "img" : "/images/painPita.jpg",
             "ingredients": [
                 {
                     "name": "farine",
@@ -1009,7 +1009,7 @@
         },
         {
             "name": "Crêpes coréennes au poireau",
-            "img" : "/images/",
+            "img" : "/images/crepesCoreennes.jpg",
             "ingredients": [
                 {
                     "name": "farine",

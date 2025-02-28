@@ -124,6 +124,7 @@ html {
     height: 28vh;
     width: 100%;
     background-color: #fca8ea;
+    z-index: 1000;
 }
 
 .top {
@@ -196,6 +197,9 @@ html {
     .top a.mB {
         float: right;
         display: block;
+    }
+    #game{
+        display: none;
     }
 }
  @media screen and (max-width: 767px) {

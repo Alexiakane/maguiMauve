@@ -344,9 +344,9 @@ function myFunction() {
         x.classList.remove("responsive");
     }
     const burger = document.getElementById("burger");
-    if (burger.getAttribute("src") === "/images/menuB.PNG") {
-        burger.setAttribute("src", "/images/fermer.PNG");
+    if (burger.getAttribute("src") === "/images/mBurger.png") {
+        burger.setAttribute("src", "/images/bugerFermer.png");
     } else {
-        burger.setAttribute("src", "/images/menuB.PNG");
+        burger.setAttribute("src", "/images/mBurger.png");
     }
 }
